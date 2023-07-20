@@ -9,7 +9,7 @@ from email.mime.text import MIMEText
 
 receivers = pd.read_excel('receivers.xlsx', usecols="A, B, C")
 
-sender_email = "invasiudayanatiket3@gmail.com"\
+sender_email = "invasiudayanatiket3@gmail.com"
 password = "tevfogucogvjrkoj"
 
 subject = "D-DAY WEBINAR NASIONAL INFORMATIKA 2023"
